@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix, command }) => {
-conn.sendHydrated(m.chat, `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷\n┃ ⛥├“${pickRandom(global.bucin)}”\n┃ ⛥├${vs}\n┃ ⛥╰───────────
-╰━━━━━━━━━━━──⊷`, wm, null, md, '𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓', null, null, [
+conn.sendHydrated(m.chat, `╭━〘Ҝ乇ᐯ-乃ㄖㄒ〙━⊷\n┃ ⛥├“${pickRandom(global.bucin)}”\n┃ ⛥├${vs}\n┃ ⛥╰───────────
+╰━━━━━━━━━━━──⊷`, wm, null, md, 'Ҝ乇ᐯ-乃ㄖㄒ', null, null, [
 ['𝐎𝐓𝐑𝐀 𝐕𝐄𝐙', `${usedPrefix}reto`],
 ], m,)}
 handler.help = ['reto']
