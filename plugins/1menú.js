@@ -15,14 +15,14 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙
+let str = `╭━〘Ҝ乇ᐯ-乃ㄖㄒ〙
 ┃ ⛥╭──────────────      
 ┃ ⛥│๖ۜ͜𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨ 
 ┃ ⛥│⌚𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 ${uptime}
 ┃ ⛥│📊𝐅𝐄𝐂𝐇𝐀 ${week}, ${date}
 ┃ ⛥│📈𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒 ${rtotalreg}
 ┃ ⛥│🤴𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓 
-┃ ⛥│http://wa.me/5212411719888  
+┃ ⛥│http://wa.me/34678757394
 ┃ ⛥╰───────────
 ╰━━━━━━━━━━━──⊷
 ╭─────────────◆ 
@@ -263,7 +263,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🔮𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓🍁',
+title: '🔮Ҝ乇ᐯ-乃ㄖㄒ🍁',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZuQokeMM`
