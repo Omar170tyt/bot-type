@@ -4,14 +4,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['34603022140', 'Ҝ乇ᐯ-乃ㄖㄒ', true],
+  ['34603022140', 'Ҝ乇ᐯ-乃ㄖㄒ', true],
+  ['34603022140', 'Ҝ乇ᐯ-乃ㄖㄒ', true],
 ]
-global.suittag =['5212411719888']
+global.suittag =['34603022140']
 global.mods = []
-global.prems = ['5212411719888'], 
-global.prems = ['5212411719888'],
+global.prems = ['34603022140'], 
+global.prems = ['34603022140'],
 global.APIs = { 
 
   amel: 'https://melcanz.com',
@@ -62,28 +62,28 @@ global.APIKeys = {
   'https://anabotofc.herokuapp.com/': 'AnaBot'
 }
 
-global.packname = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄-𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
+global.packname = 'Ҝ乇ᐯ-乃ㄖㄒ'
+global.author = 'kevfdezz'
 
 global.vs = '1.10.90'
 global.version = vs
 
-global.gt = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄-𝐌𝐈𝐊𝐔-𝐁𝐎𝐓️'
+global.gt = 'Ҝ乇ᐯ-乃ㄖㄒ'
 global.hadesbot = gt
 
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = ''
 global.youtube = yt
 
-global.ig = 'https://www.instagram'
+global.ig = ''
 global.hadesig = ig
 
-global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU.git'
+global.md = ''
 global.hadesbot = md
 
-global.nn = 'https://chat.whatsapp.com/CG5ZPcJ22fL7QjNRzjguD0'
+global.nn = ''
 global.nngrupo = nn
 
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'kevfdezz'
 global.nnngrupo = nnn
 
 global.paypal = 'https://pay'
@@ -111,7 +111,7 @@ global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 
 global.wm = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄-𝐌𝐈𝐊𝐔-𝐁𝐎𝐓\n©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍'
-global.igfg = '𝐇𝐀𝐓𝐒𝐔𝐍𝐄-𝐌𝐈𝐊𝐔-𝐁𝐎𝐓'
+global.igfg = 'Ҝ乇ᐯ-乃ㄖㄒ'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./src/Menu2.jpg')
