@@ -8,7 +8,7 @@ let isClose = { // Switch Case Like :v
 'cerrar': 'announcement',
 }[(args[0] || '')]
 if (isClose === undefined)
-throw `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+throw `╭━〘Ҝ乇ᐯ-乃ㄖㄒ〙━⊷ 
 ┃ ⛥│*[❗] 𝙵𝙾𝚁𝙼𝙰𝚃𝙾 𝙴𝚁𝚁𝙾𝙽𝙴𝙾!!*
 ┃ ⛥│✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ 
 ┃ ⛥│${usedPrefix + command} abrir*
