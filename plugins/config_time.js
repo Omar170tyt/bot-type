@@ -16,7 +16,7 @@ let handler = async (m, { conn, isAdmin, isOwner, args, usedPrefix, command }) =
       '0': 'announcement',
   }[(args[0] || '')]
   if (isClose === undefined) {
-	  let caption = `╭━〘𝐇𝐀𝐓𝐒𝐔𝐍𝐄 𝐌𝐈𝐊𝐔-𝐁𝐎𝐓〙━⊷ 
+	  let caption = `╭━〘Ҝ乇ᐯ-乃ㄖㄒ〙━⊷ 
 ┃ ⛥││*[❗] 𝙵𝙾𝚁𝙼𝙰𝚃𝙾 𝙴𝚁𝚁𝙾𝙽𝙴𝙾!!*
 ┃ ⛥│✨𝙴𝙹𝙴𝙼𝙿𝙻𝙾✨ 
 ┃ ⛥│${usedPrefix + command} open 1*
