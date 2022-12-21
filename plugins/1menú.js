@@ -249,7 +249,7 @@ let str = `╭━〘Ҝ乇ᐯ-乃ㄖㄒ〙
 ╰────────────┈⊷`.trim()
 let buttons = [
 { buttonId: '/yovani', buttonText: { displayText: '𝐂𝐎𝐍𝐓𝐀𝐂𝐓𝐎' }, type: 1 },
-{ buttonId: '/grupos', buttonText: { displayText: '𝐆𝐑𝐔𝐏𝐎𝐒' }, type: 1 }]
+' }, type: 1 }]
 let buttonMessage = {
 image: imagen3 ,
 caption: str.trim(),
@@ -266,7 +266,7 @@ mediaUrl: null,
 title: '🔮Ҝ乇ᐯ-乃ㄖㄒ🍁',
 body: null,
 thumbnail: img,
-sourceUrl: `https://youtu.be/HoxZuQokeMM`
+sourceUrl: ``
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 await conn.sendFile(m.chat, vn, 'Hola.mp3', null, m, true, { type: 'audioMessage', ptt: true})
